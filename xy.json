@@ -1,5 +1,5 @@
 {
-  "default": "device_config delete game_overlay",
+  "defaultz": "device_config delete game_overlay",
   "low": "device_config put game_overlay com.dts.freefiremax mode=2,downscaleFactor=1.8:mode=3,downscaleFactor=0.8",
   "medium": "device_config put game_overlay com.dts.freefiremax mode=2,downscaleFactor=2.5:mode=3,downscaleFactor=0.8",
   "ultra": "device_config put game_overlay com.dts.freefiremax mode=2,downscaleFactor=3.8:mode=3,downscaleFactor=0.8",
